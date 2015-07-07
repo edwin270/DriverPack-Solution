@@ -1,27 +1,21 @@
 DriverPack-Solution
 ===================
 
-DriverPack Solution - это самая популярная программа для автоматической настройки компьютера. 
-Драйверы, Софт, Диагностика.
+DriverPack Solution - the most popular program to automatically configure your computer.
+Drivers , Software, Diagnostics .
 
 
-* Сайт: http://drp.su/
-* Форум: http://community.drp.su/
-* вКонтакте: http://vk.com/driverpacksolution
-* FaceBook Rus: https://www.facebook.com/DriverPack.Solution.Russia
-* FaceBook Eng: https://www.facebook.com/DriverPack.Solution
-
-
-## Хотите помочь с разработкой DRP?
-
-Присоединяйтесь: 
-https://github.com/DriverPackSolution/DriverPack-Solution/wiki/Руководство-к-разработке-DRP
-
-
-## Нашли баг?
-
-Сообщите: https://github.com/DriverPackSolution/DriverPack-Solution/issues
+* Website : my.comlu.com
+* Forum : http://edsystemsinc.webs.com
+* FaceBook: https://www.facebook.com/edwin270
 
 
 
-Главный разработчик Артур Кузяков: http://vk.com/kuziakov
+## Found a bug?
+
+Report : https://github.com/DriverPackSolution/DriverPack-Solution/issues
+
+
+
+A porject by Arthur Kuzyakov 
+Modification by Edwin270
